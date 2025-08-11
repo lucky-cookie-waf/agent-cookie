@@ -8,7 +8,7 @@ import (
     "os"
     "path/filepath"
     "strings"
-    "time"
+    "strconv"
 )
 
 type LogState struct {
