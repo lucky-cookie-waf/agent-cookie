@@ -1,0 +1,6 @@
+# Agent Cookie Configuration 🍪
+listen_addr: "127.0.0.1:8080"
+central_server: "localhost:3000" # 도메인 생기면 바꾸기
+log_path: "/var/log/modsecurity"
+interval: "30s"
+debug: false
